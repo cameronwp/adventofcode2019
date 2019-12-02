@@ -17,8 +17,7 @@ npm i
 ## Run
 
 ```sh
-./node_modules/typescript/bin/tsc dayX/app.ts && node dayX/app.js
+./node_modules/typescript/bin/tsc dayX/index.ts && node dayX/
 ```
 
 (swap out the `X` in `dayX` for whatever day it is)
-
