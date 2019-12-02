@@ -21,3 +21,9 @@ npm i
 ```
 
 (swap out the `X` in `dayX` for whatever day it is)
+
+## Run Tests
+
+```sh
+./node_modules/jest/bin/jest.js dayX/test.ts
+```
