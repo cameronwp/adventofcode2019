@@ -1,20 +1,24 @@
 # Advent of Code 2019
 
-https://adventofcode.com/2019
+Multilingual take on https://adventofcode.com/2019
 
 ---
+
+## Typescript Days
+
+- day1, day2
 
 Using typescript for practice with typings and such.
 
 Written with node v8.11
 
-## Install
+### Install
 
 ```sh
 npm i
 ```
 
-## Run
+### Run
 
 ```sh
 ./node_modules/typescript/bin/tsc dayX/index.ts && node dayX/
@@ -22,8 +26,30 @@ npm i
 
 (swap out the `X` in `dayX` for whatever day it is)
 
-## Run Tests
+### Run Tests
 
 ```sh
 ./node_modules/jest/bin/jest.js dayX/test.ts
+```
+
+## Rust Days
+
+- day3
+
+### Build
+
+```sh
+cargo build
+```
+
+### Run
+
+```sh
+./target/dayX
+```
+
+### Test
+
+```sh
+cargo test
 ```
