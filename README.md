@@ -47,7 +47,7 @@ cargo build
 ### Run
 
 ```sh
-./target/dayX
+./target/debug/dayX
 ```
 
 ### Test
