@@ -36,6 +36,8 @@ npm i
 
 - day3
 
+Getting rusty with it.
+
 ### Build
 
 ```sh
