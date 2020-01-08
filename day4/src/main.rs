@@ -78,6 +78,7 @@ fn has_at_least_two_adjacent_digits(n: &i32) -> bool {
     return false;
 }
 
+// https://gist.github.com/vlmonk/8f466c8b2d99c4bc0be3b355b783c44a
 fn is_2_digit_same_advanced(n: &i32) -> bool {
     let input = Num::from_i32(*n);
 
